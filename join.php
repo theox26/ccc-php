@@ -14,7 +14,7 @@
 
 <body>
   <div class="page" id="page">
-    <?php include './top.php'; ?>
+    <?php include 'includes/top.php'; ?>
 
   <div id="content-wrapper" class="zone-wrapper">
   <div class="block-inner">
@@ -34,7 +34,7 @@
 
 <p>I agree to respect the privacy and confidentiality of the personal information of other club members and agree not to use any&nbsp;personal information (address, email address, phone #’s, etc.) for personal or business gain.&nbsp;</p>
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="JHXTSU4R4XSQQ">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -42,7 +42,7 @@
 </form>
   </div>
   </div>
-  <?php include './footer.php'; ?>
+  <?php include 'includes/footer.php'; ?>
 </div>  
 </body>
 </html>

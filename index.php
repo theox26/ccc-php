@@ -9,7 +9,7 @@
 
 <body>
   <div class="page" id="page">
-    <?php include './top.php'; ?>
+    <?php include 'includes/top.php'; ?>
 
   <div id="content-wrapper" class="zone-wrapper">
   <div class="block-inner">
@@ -39,7 +39,7 @@
     </div>
   </div>
   </div>
-  <?php include './footer.php'; ?>
+  <?php include 'includes/footer.php'; ?>
 </div>  
 </body>
 </html>
