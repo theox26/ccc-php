@@ -9,7 +9,7 @@
 
 <body>
   <div class="page" id="page">
-    <?php echo include './top.php'; ?>
+    <?php include './top.php'; ?>
 
   <div id="content-wrapper" class="zone-wrapper">
   <div class="block-inner">
@@ -39,15 +39,7 @@
     </div>
   </div>
   </div>
-  <div id="footer">
-    <div class="inner">
-      <p style="text-align: center;">
-      <span>Conewago Canoe Club a 501c3 nonprofit organization - All Rights Reserved. <br>
-      </span>
-      <span style="line-height: 1.538em;">The ideas and opinions expressed here are the property of their respective authors.</span>
-      </p>
-    </div>
-  </div>
+  <?php include './footer.php'; ?>
 </div>  
 </body>
 </html>
