@@ -1,3 +1,4 @@
+  </div> <!-- end of menu wrapper -->
   <div id="footer">
     <div class="inner">
       <p style="text-align: center;">

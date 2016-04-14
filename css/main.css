@@ -101,7 +101,7 @@ img {
 
 #menu-wrapper {
     background-image: url(images/under-menu-bg2.png);
-    height: 865px;
+    /*height: 865px;*/
 }
 
 #menu {
@@ -152,12 +152,9 @@ li a.active {
 }
 
 #content-wrapper {
-    position: absolute;
-    display: block;
-    top: 625px;
     background-color: #ffffff;
     width: 890px;
-    padding: 0 25px 25px 25px;
+    padding: 0px 25px 25px 25px;
     margin: 10px;
     box-shadow: 0px 0px 4px #a6a6a6;
 }
@@ -179,6 +176,19 @@ li a.active {
 
 #content-wrapper p{
     line-height: 1.5em;
+}
+
+ul.content-list {
+    border: none;
+    list-style-position: outside;
+    list-style-type: '-';
+    text-align: left;
+    margin-left: 10px;
+}
+
+ul.content-list li {
+    padding-left: 20px;
+    margin: 10px 0;
 }
 
 #footer {
