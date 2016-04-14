@@ -22,9 +22,6 @@
           <a href="https://www.facebook.com/groups/ConewagoCanoeClub/" target="_blank" class="">Facebook Group</a>
         </li>
         <li>
-          <a href="/local.php" class="">Local Resources</a>
-        </li>
-        <li>
           <a href="/about.php" class="">About Us</a>
         </li>
     </div>
