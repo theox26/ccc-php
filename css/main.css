@@ -102,6 +102,7 @@ img {
 #menu-wrapper {
     background-image: url(images/under-menu-bg2.png);
     /*height: 865px;*/
+    padding-bottom: 1px; /* needed to allow inner margins to apply */
 }
 
 #menu {
