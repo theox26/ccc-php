@@ -13,6 +13,9 @@
 
   <div id="content-wrapper" class="zone-wrapper">
   	<div class="block-inner">
+  	<div class="logo-img">
+          <img src="images/ccc_header_logo.png" alt="CCC" id="logo">   
+      </div>
       <h2 class="block-title">About Us</h2>
 
       <p>The purpose of the Conewago Canoe Club is to:</p>

@@ -1,11 +1,3 @@
-    <div id="header">
-      <div class="logo-img">
-        <a href="/" rel="home" title="" class="active">
-          <img src="images/ccc_header_logo.png" alt="CCC" id="logo">
-        </a>      
-      </div>
-    </div>
-
   <div id="menu-wrapper" class="zone-wrapper zone-menu-wrapper">    
     <div id="menu">
       <ul class="menu">

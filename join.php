@@ -13,6 +13,9 @@
 
   <div id="content-wrapper" class="zone-wrapper">
   <div class="block-inner">
+  <div class="logo-img">
+          <img src="images/ccc_header_logo.png" alt="CCC" id="logo">   
+      </div>
     <h2 class="block-title">Conewago Canoe Club Membership Application for 2016</h2>
 
 <p>Memberships run from January 1 through December 31.&nbsp;</p>

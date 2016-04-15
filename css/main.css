@@ -179,6 +179,10 @@ li a.active {
     line-height: 1.5em;
 }
 
+#content-wrapper .logo-img{
+    float: right;
+}
+
 ul.content-list {
     border: none;
     list-style-position: outside;

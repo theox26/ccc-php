@@ -15,7 +15,9 @@
 <body>
   <div class="page" id="page">
     <?php include 'includes/top.php'; ?>
-
+      <div class="logo-img">
+          <img src="images/ccc_header_logo.png" alt="CCC" id="logo">   
+      </div>
   <div id="content-wrapper" class="zone-wrapper">
   <div class="block-inner">
               <h2 class="block-title">Welcome</h2>
