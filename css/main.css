@@ -204,9 +204,10 @@ ul.content-list li {
 }
 
 #footer .inner{
-    display: inline;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#footer p{
+    margin-bottom: 0;
 }
 
