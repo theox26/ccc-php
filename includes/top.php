@@ -16,7 +16,7 @@
           <a href="/calendar.php" class="">Calendar</a>
         </li>
         <li>
-          <a href="/join.php" class="">Join</a>
+          <a href="/join.php" class="">Join/Renew</a>
         </li>
         <li>
           <a href="https://www.facebook.com/groups/ConewagoCanoeClub/" target="_blank" class="">Facebook Group</a>

@@ -45,9 +45,9 @@ body {
     font-style: normal;
     font-weight: normal;
     min-width: 960px;
-	font-size: 16px;
+	font-size: 1.1em;
 	color: #5d5c5c;
-	letter-spacing: .02em;
+	letter-spacing: .01em;
 	background-color: #e4e4e4;
 }
 
