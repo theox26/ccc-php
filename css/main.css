@@ -105,11 +105,11 @@ img {
     padding-bottom: 1px; /* needed to allow inner margins to apply */
 }
 
-#menu {
+nav {
     background-image: url(images/menu-bg.png);
     padding: 8px 0;
     width: 100%;
-    height: 35px;
+    /*height: 35px;*/
     margin-left: auto;
     margin-right: auto;
     margin-top: 0;
@@ -127,15 +127,6 @@ ul.menu {
     margin: 0;
     padding: 0;
     line-height: 1.0;
-}
-
-ul.menu li {
-    margin: 0 0 0 0.5em;
-    padding-bottom: 10px;
-    padding-top: 7px;
-    list-style: none;
-    float: left;
-    position: relative;
 }
 
 ul.menu li a {
@@ -196,13 +187,6 @@ ul.content-list li {
     margin: 10px 0;
 }
 
-#footer {
-    margin-left: auto;
-    margin-right: auto;
-    width: 960px;
-    background-color: #ffffff;
-}
-
 #footer .inner{
     padding: 10px;
 }
@@ -211,3 +195,14 @@ ul.content-list li {
     margin-bottom: 0;
 }
 
+/*Counter the bootstrap theme*/
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #fff;
+  text-decoration: underline;
+}

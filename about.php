@@ -7,9 +7,8 @@
   
 </head>
 <body>
-  <div class="page" id="page">
     <?php include 'includes/top.php'; ?>
-
+<div id="page" class="container-fluid">
   <div id="content-wrapper" class="zone-wrapper">
   	<div class="block-inner">
   	<div class="logo-img">

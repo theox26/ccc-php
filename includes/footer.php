@@ -1,5 +1,5 @@
   </div> <!-- end of menu wrapper -->
-  <div id="footer">
+  <div id="footer" class="container-fluid">
     <div class="inner">
       <p style="text-align: center;">
       <span>Conewago Canoe Club a 501c3 nonprofit organization - All Rights Reserved. <br>
