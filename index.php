@@ -4,11 +4,6 @@
 <?php include 'includes/static.php'; ?>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>Conewago Canoe Club</title>
-  <style type="text/css">
-    #content-wrapper {
-        margin-top: 300px;
-    }
-  </style>
 </head>
 <body>
     <?php include 'includes/top.php'; ?>
