@@ -44,7 +44,7 @@ body {
     font-family: 'Yanone Kaffeesatz', Verdana, Helvetica, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
-    min-width: 960px;
+    min-width: 150px;
 	font-size: 1.1em;
 	color: #5d5c5c;
 	letter-spacing: .01em;
@@ -79,17 +79,14 @@ img {
 #page {
     margin-left: auto;
     margin-right: auto;
-    max-width: 1200px;
-    width: 960px;
+    padding: 0;
+    max-width: 960px;
+    min-width: 150px;
     background-color: #ffffff;
     box-shadow: 0px 0px 8px #888888;
-}
-
-#header {
-    background-image: url(images/header-bg.png);
-    width: 100%;
+    background-image: url(images/under-menu-bg2.png);
     background-repeat: no-repeat;
-    height: 174px;
+    background-position: right top; 
 }
 
 .logo-img{
@@ -100,7 +97,7 @@ img {
 }
 
 #menu-wrapper {
-    background-image: url(images/under-menu-bg2.png);
+    
     /*height: 865px;*/
     padding-bottom: 1px; /* needed to allow inner margins to apply */
 }
@@ -145,10 +142,14 @@ li a.active {
 
 #content-wrapper {
     background-color: #ffffff;
-    width: 890px;
+    /*width: 890px;*/
     padding: 0px 25px 25px 25px;
-    margin: 10px;
+    margin-top: 80px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
     box-shadow: 0px 0px 4px #a6a6a6;
+    float: left;
 }
 
 #content-wrapper .block-title {
@@ -187,6 +188,11 @@ ul.content-list li {
     margin: 10px 0;
 }
 
+#footer {
+	background-color: #fff;
+	clear: both;
+}
+
 #footer .inner{
     padding: 10px;
 }
@@ -205,4 +211,8 @@ ul.content-list li {
 .navbar-default .navbar-nav > li > a:focus {
   color: #fff;
   text-decoration: underline;
+}
+
+.navbar-default {
+    background-color: transparent;
 }

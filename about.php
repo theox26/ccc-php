@@ -3,16 +3,15 @@
 <head>
 <?php include 'includes/static.php'; ?>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Conewago Canoe Club</title>
+  <title>Conewago Canoe Club - About</title>
   
 </head>
 <body>
     <?php include 'includes/top.php'; ?>
-<div id="page" class="container-fluid">
   <div id="content-wrapper" class="zone-wrapper">
   	<div class="block-inner">
   	<div class="logo-img">
-          <img src="images/ccc_header_logo.png" alt="CCC" id="logo">   
+          <img src="images/ccc_header_logo.png" alt="CCC" id="logo">  
       </div>
       <h2 class="block-title">About Us</h2>
 
@@ -49,6 +48,5 @@
   	</div>
   </div>
   <?php include 'includes/footer.php'; ?>
-</div>  
 </body>
 </html>
