@@ -22,7 +22,8 @@
               <a href="/join.php" class="">Join/Renew</a>
             </li>
             <li>
-              <a href="https://www.facebook.com/groups/ConewagoCanoeClub/" target="_blank" class="">Facebook Group</a>
+              <a href="https://www.facebook.com/groups/ConewagoCanoeClub/" target="_blank" class="visible-md-block visible-lg-block">Facebook Group</a>
+              <a href="fb://groups/ConewagoCanoeClub/" class="visible-xs-block visible-sm-block">Facebook Group</a>
             </li>
             <li>
               <a href="/about.php" class="">About Us</a>
