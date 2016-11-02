@@ -35,15 +35,20 @@
       <p>Officers of the club shall be elected to annual terms.&nbsp; 
       Responsibilities are, in addition to enforcing general club regulations,
        defined as follows:</p>
-       <ul class="content-list">
-         <li>President: Presiding officer with responsibility for the function of the club.</li>
-         <li>Vice President: </li>
-         <li>Secretary: Responsible for handling correspondence at the direction of the President and Vice President.</li>
-         <li>Trip and Safety Coordinator: Responsible for the finding instructors for each 
-      class and relaying the appropriate dates to the club calendar.</li>
-         <li>Treasurer:
-       Responsible for the solicitation of new and renewing members, the maintenance of an accurate and current roster, the collection of dues and holding of club funds, and disbursements as authorized by membership.</li>
-       </ul>
+       <dl class="content-list">
+         <dt>President: Presiding officer with responsibility for the function of the club.</dt>
+         <dd>- Aaron Oxenrider</dd>
+         <dt>Vice President: Responsible for trip accomodations and general club business.</dt>
+         <dd>- Jacob Gembe</dd>
+         <dt>Secretary: Responsible for handling correspondence at the direction of the President and Vice President.</dt>
+         <dd>- Currently Open</dd>
+         <dt>Trip and Safety Coordinator: Responsible for the finding instructors for each 
+      class and relaying the appropriate dates to the club calendar.</dt>
+      <dd>- Currently Open</dd>
+         <dt>Treasurer:
+       Responsible for the solicitation of new and renewing members, the maintenance of an accurate and current roster, the collection of dues and holding of club funds, and disbursements as authorized by membership.</dt>
+       <dd>- Carol Figdore</dd>
+       </dl>
 
   	</div>
   </div>

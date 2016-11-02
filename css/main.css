@@ -157,6 +157,13 @@ li a.active {
     margin-bottom: 10px;
 }
 
+.block-title p {
+    float: left;
+    clear: both;
+    margin-bottom: 0;
+    line-height: 1em;
+}
+
 #content-wrapper h2 {
     font-size: 2.2em;
     line-height: 1.5em;
@@ -187,6 +194,25 @@ ul.content-list {
 ul.content-list li {
     padding-left: 20px;
     margin: 10px 0;
+}
+
+dl.content-list {
+    border: none;
+    list-style-position: outside;
+    list-style-type: '-';
+    text-align: left;
+    margin-left: 10px;
+}
+
+dl.content-list dt {
+    padding-left: 20px;
+    margin: 10px 0;
+    font-weight: 500;
+}
+
+dl.content-list dd {
+    padding-left: 40px;
+    /*margin: 10px 0;*/
 }
 
 #footer {
@@ -236,4 +262,12 @@ height: 100%;
 
 .navbar-default {
     background-color: transparent;
+}
+
+.green {
+    color: #3C995B;
+}
+
+.red {
+    color: #AD2D2D;
 }
